@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
   <!-- Profile Banner Image - moved to top -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:FF782C&height=190&section=header&text=Johan%20Hernandez&desc=iOS%20and%20Web%20Developer&fontSize=42&fontAlignY=35&descSize=22&descAlignY=62&animation=fadeIn&fontColor=FFFFFF" width="100%" alt="Profile Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:FF782C&height=190&section=header&text=Johan%20Hernandez&desc=&fontSize=42&fontAlignY=35&descSize=22&descAlignY=62&animation=fadeIn&fontColor=FFFFFF" width="100%" alt="Profile Header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B;7th+semester+Computer+Systems+Engineering+student;Building+innovative+mobile+%26+web+applications;Always+learning+new+technologies&font=Fira%20Code&center=true&width=700&height=45&color=f75c7e&vCenter=true&size=20&pause=1000" alt="Introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B;7th+semester+Computer+Systems+Engineering+student;Currently+building+mobile+%26+web+applications;&font=Fira%20Code&center=true&width=750&height=45&color=f75c7e&vCenter=true&size=22&pause=800" alt="Introduction" />
 </div>
 
 <p align="center">
