@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B;7th+semester+Computer+Systems+Engineering+student;Currently+building+mobile+%26+web+applications;&font=Fira%20Code&center=true&width=750&height=45&color=f75c7e&vCenter=true&size=22&pause=800" alt="Introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+Welcome+to+my+profile+👋;7th+semester+Computer+Systems+Engineering+student;Currently+building+mobile+%26+web+applications;&font=Fira%20Code&center=true&width=750&height=45&color=f75c7e&vCenter=true&size=22&pause=800" alt="Introduction" />
 </div>
 
 <p align="center">
@@ -60,24 +60,45 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjhn11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Johan's%20GitHub%20Stats" width="420" alt="Stats Graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jjhn11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" width="350" alt="Languages Graph"/>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=jjhn11&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=jjhn11&theme=buefy&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jjhn11&hide_border=true" />
+  </picture>
+  
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jjhn11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jjhn11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=buefy&hide_border=true&custom_title=Most%20Used%20Languages" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jjhn11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&custom_title=Most%20Used%20Languages" width="350" alt="Languages Graph" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjhn11&theme=tokyonight&hide_border=true" width="500" alt="Streak Stats"/>
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=jjhn11&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=jjhn11&theme=buefy&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjhn11&hide_border=true" width="500" alt="Streak Stats" />
+  </picture>
 </div>
 
 <details>
   <summary>📌 More GitHub Stats</summary>
   <div align="center">
     <h3>🏆 GitHub Trophies</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=jjhn11&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
+    <picture>
+      <source srcset="https://github-profile-trophy.vercel.app/?username=jjhn11&theme=tokyonight&no-frame=true&column=7" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-profile-trophy.vercel.app/?username=jjhn11&theme=flat&no-frame=true&column=7" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://github-profile-trophy.vercel.app/?username=jjhn11&no-frame=true&column=7" alt="GitHub Trophies" />
+    </picture>
   </div>
   
   <div align="center">
     <h3>🔝 Top Contributed Repositories</h3>
-    <img src="https://github-contributor-stats.vercel.app/api?username=jjhn11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+    <picture>
+      <source srcset="https://github-contributor-stats.vercel.app/api?username=jjhn11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-contributor-stats.vercel.app/api?username=jjhn11&limit=5&theme=buefy&combine_all_yearly_contributions=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=jjhn11&limit=5&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+    </picture>
   </div>
 </details>
 
@@ -86,12 +107,11 @@
 ## 🔭 Featured Projects
 
 <div align="center">
-<a href="https://github.com/jjhn11/Aurora">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=Aurora&theme=tokyonight" />
-</a>
-<a href="https://github.com/Feneria/MechanicWorkshop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Feneria&repo=MechanicWorkshop&theme=tokyonight" />
-</a>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=Aurora&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=Aurora&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=Aurora" />
+  </picture>
 </div>
 
 <hr/>
