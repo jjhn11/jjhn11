@@ -9,9 +9,8 @@
 </div>
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/YourProfile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/jjhn11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="johanhdez6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/johan-hernández-6a035827a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <hr/>
@@ -22,7 +21,7 @@
 
 🎓 Currently pursuing a degree in **Computer Systems Engineering** at Technological Institute of Mexicali
 
-💼 Passionate about building **iOS & web applications** that solve real-world problems
+💼 Passionate about building **iOS & web applications** 
 
 🚀 Continuously expanding my skills through hands-on projects and learning new technologies
 
@@ -30,12 +29,6 @@
   - Swift & iOS Development
   - JavaScript Frameworks (Vue.js)
   - Full-stack Development
-  - Mobile-first Design
-
-🌱 Learning **Docker**, **CI/CD pipelines**, and **cloud deployment** strategies
-
-⚡ Fun fact: I enjoy applying programming concepts to solve everyday challenges
-
 <hr/>
 
 ## 💻 Tech Stack
@@ -94,8 +87,8 @@
 ## 🔭 Featured Projects
 
 <div align="center">
-<a href="https://github.com/jjhn11/your-project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=your-project-1&theme=tokyonight" />
+<a href="https://github.com/jjhn11/aurora">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=aurora&theme=tokyonight" />
 </a>
 <a href="https://github.com/jjhn11/your-project-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=your-project-2&theme=tokyonight" />
