@@ -23,8 +23,6 @@
 
 🧑‍💻 Passionate about building **iOS & web applications** 
 
-🚀 Continuously expanding my skills through hands-on projects and learning new technologies
-
 💻 Currently focused on:
   - Swift & iOS Development
   - JavaScript Frameworks (Vue.js)
@@ -91,8 +89,8 @@
 <a href="https://github.com/jjhn11/aurora">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=aurora&theme=tokyonight" />
 </a>
-<a href="https://github.com/jjhn11/your-project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=your-project-2&theme=tokyonight" />
+<a href="https://github.com/jjhn11/aurora">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=aurora&theme=tokyonight" />
 </a>
 </div>
 
