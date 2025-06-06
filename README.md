@@ -86,11 +86,11 @@
 ## 🔭 Featured Projects
 
 <div align="center">
-<a href="https://github.com/jjhn11/FrontendTest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=FrontendTest&theme=tokyonight" />
-</a>
 <a href="https://github.com/jjhn11/Aurora">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=Aurora&theme=tokyonight" />
+</a>
+<a href="https://github.com/Feneria/MechanicWorkshop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Feneria&repo=MechanicWorkshop&theme=tokyonight" />
 </a>
 </div>
 
