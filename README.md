@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Johan+%F0%9F%91%8B;iOS+%26+Web+Developer;Computer+Systems+Engineering+Student" alt="Typing SVG" />
+</div>
+
+
 # 💫 About Me:
 🎓 7th-semester Computer Systems Engineering student at Technological Institute of Mexicali<br>
 💻 Passionate iOS & web developer building real-world projects<br>
@@ -37,6 +42,9 @@
 [![](https://visitcount.itsvg.in/api?id=jjhn11&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<img src="https://raw.githubusercontent.com/jjhn11/jjhn11/output/snake.svg" alt="Snake animation" />
+<h2 align="center">🐍 Contribution Graph</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jjhn11/jjhn11/output/dist/snake.svg" alt="Snake animation" />
+</div>
 
 ###
