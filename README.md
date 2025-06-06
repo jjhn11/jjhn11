@@ -1,10 +1,9 @@
-Desktop\jjhn11\README.md
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Johan+%F0%9F%91%8B;iOS+%26+Web+Developer;Computer+Systems+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I%27m+Johan+%F0%9F%91%8B;iOS+%26+Web+Developer;Computer+Systems+Engineering+Student&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&size=20&pause=1000" alt="Typing SVG" />
   
   <!-- Profile Banner Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mobile%20%26%20Web%20Developer&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" width="100%" alt="Profile Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:FF782C&height=180&section=header&text=Mobile%20and%20Web%20Developer&fontSize=36&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" width="100%" alt="Profile Banner">
 </div>
 
 
