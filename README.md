@@ -19,9 +19,9 @@
 
 <img align="right" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding Animation"/>
 
-🎓 Currently pursuing a degree in **Computer Systems Engineering** at Technological Institute of Mexicali
+🎓 Currently pursuing a degree in **Computer Systems Engineering** at TecNM Mexicali
 
-💼 Passionate about building **iOS & web applications** 
+🧑‍💻 Passionate about building **iOS & web applications** 
 
 🚀 Continuously expanding my skills through hands-on projects and learning new technologies
 
@@ -72,11 +72,12 @@
 
 <details>
   <summary>📌 More GitHub Stats</summary>
-  
   <div align="center">
     <h3>🏆 GitHub Trophies</h3>
     <img src="https://github-profile-trophy.vercel.app/?username=jjhn11&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
-    
+  </div>
+  
+  <div align="center">
     <h3>🔝 Top Contributed Repositories</h3>
     <img src="https://github-contributor-stats.vercel.app/api?username=jjhn11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
   </div>
@@ -94,19 +95,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=your-project-2&theme=tokyonight" />
 </a>
 </div>
-
-<hr/>
-
-## 📫 Connect With Me
-
-<p align="center">
-  <i>Let's connect and chat! Feel free to reach out for collaborations or just a tech chat.</i>
-</p>
-
-<p align="center">
-  <a href="#"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
-  <a href="#"><img alt="Resume" src="https://img.shields.io/badge/Resume-569A31?style=for-the-badge&logo=readme&logoColor=white"></a>
-</p>
 
 <hr/>
 
