@@ -86,11 +86,11 @@
 ## 🔭 Featured Projects
 
 <div align="center">
-<a href="https://github.com/jjhn11/aurora">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=aurora&theme=tokyonight" />
+<a href="https://github.com/jjhn11/FrontendTest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=FrontendTest&theme=tokyonight" />
 </a>
-<a href="https://github.com/jjhn11/aurora">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=aurora&theme=tokyonight" />
+<a href="https://github.com/jjhn11/Aurora">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=Aurora&theme=tokyonight" />
 </a>
 </div>
 
@@ -105,6 +105,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF782C,100:5468FF&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jjhn11&style=for-the-badge&color=5468FF" alt="Profile Views"/>
 </div>
