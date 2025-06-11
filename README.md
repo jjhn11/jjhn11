@@ -16,11 +16,7 @@
 
 ## 💫 About Me
 
-<picture align="right">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/programming.gif" width="250">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/GIFs/responsive-design.gif" width="250">
-  <img alt="Coding Animation" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/programming.gif" width="250">
-</picture>
+<img align="right" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding Animation"/>
 
 🎓 Currently pursuing a degree in **Computer Systems Engineering** at TecNM Mexicali
 
@@ -122,9 +118,9 @@
 <h2 align="center">🐍 Contribution Graph</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjhn11/jjhn11/output/dist/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jjhn11/jjhn11/output/dist/snake-light.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jjhn11/jjhn11/output/dist/snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjhn11/jjhn11/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jjhn11/jjhn11/output/github-snake-light.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jjhn11/jjhn11/output/github-snake-dark.svg" />
   </picture>
 </div>
 
