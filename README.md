@@ -1,11 +1,10 @@
 <!-- Header Banner -->
 <div align="center">
-  <!-- Profile Banner Image - moved to top -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:FF782C&height=190&section=header&text=Johan%20Hernandez&desc=&fontSize=42&fontAlignY=35&descSize=22&descAlignY=62&animation=fadeIn&fontColor=FFFFFF" width="100%" alt="Profile Header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+Welcome+to+my+profile+👋;7th+semester+Computer+Systems+Engineering+student;Currently+building+mobile+%26+web+applications;&font=Fira%20Code&center=true&width=750&height=45&color=f75c7e&vCenter=true&size=22&pause=800" alt="Introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5468FF&center=true&vCenter=true&random=false&width=750&lines=Hi+there!+Welcome+to+my+profile+👋;7th+semester+Computer+Systems+Engineering+student;iOS+%26+Full-Stack+Web+Developer" alt="Introduction" />
 </div>
 
 <p align="center">
@@ -107,18 +106,24 @@
 ## 🔭 Featured Projects
 
 <div align="center">
-  <picture>
+  <!-- <picture> -->
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=Aurora&theme=tokyonight" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=Aurora&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=Aurora" />
-  </picture>
+  <!-- </picture> -->
 </div>
 
 <hr/>
 
 <h2 align="center">🐍 Contribution Graph</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jjhn11/jjhn11/output/snake.svg" alt="Snake animation" width="100%"/>
+  <!-- Dark mode snake -->
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/jjhn11/jjhn11/output/snake.svg" media="(prefers-color-scheme: dark)" />
+    <!-- Light mode snake with custom colors -->
+    <source srcset="https://raw.githubusercontent.com/jjhn11/jjhn11/output/snake.svg?palette=github-light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://raw.githubusercontent.com/jjhn11/jjhn11/output/snake.svg" alt="Snake animation" width="100%"/>
+  </picture>
 </div>
 
 <div align="center">
