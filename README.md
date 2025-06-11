@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding Animation"/>
+<img align="right" width="250" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Animation"/>
 
 🎓 Currently pursuing a degree in **Computer Systems Engineering** at TecNM Mexicali
 
@@ -106,23 +106,21 @@
 ## 🔭 Featured Projects
 
 <div align="center">
-  <!-- <picture> -->
+  <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=Aurora&theme=tokyonight" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=Aurora&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jjhn11&repo=Aurora" />
-  <!-- </picture> -->
+  </picture>
 </div>
 
 <hr/>
 
 <h2 align="center">🐍 Contribution Graph</h2>
 <div align="center">
-  <!-- Dark mode snake -->
   <picture>
-    <source srcset="https://raw.githubusercontent.com/jjhn11/jjhn11/output/snake.svg" media="(prefers-color-scheme: dark)" />
-    <!-- Light mode snake with custom colors -->
-    <source srcset="https://raw.githubusercontent.com/jjhn11/jjhn11/output/snake.svg?palette=github-light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://raw.githubusercontent.com/jjhn11/jjhn11/output/snake.svg" alt="Snake animation" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjhn11/jjhn11/output/dist/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jjhn11/jjhn11/output/dist/snake-light.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jjhn11/jjhn11/output/dist/snake-dark.svg" />
   </picture>
 </div>
 
